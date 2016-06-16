@@ -5,6 +5,11 @@ Peter Lawrey
 
 https://www.youtube.com/watch?v=4qD3KmGLnss[Readme Driven Development]
 
+https://www.youtube.com/watch?v=x5rGUqRWlK8[Documentation Driven Development in Jango]
+
+=== Conference
+
+http://www.writethedocs.org/[Write The Docs ORG]
 
 === Links
 
